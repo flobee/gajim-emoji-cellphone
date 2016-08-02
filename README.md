@@ -10,6 +10,15 @@ I manually added all ASCII codes the original “static“ emoticon pack that co
 [Gajim]: https://gajim.org/
 [EmojiOne]: http://emojione.com/
 
+Installation
+------------
+Either [download the ZIP][ZIP] or use git to clone the repository to the correct location (see below), go to the preferences of Gajim and select the newly appeared emoticon pack. The correct folders are:
+
+* Linux: `$HOME/.local/share/gajim/emoticons/`
+* Windows: `%USERPROFILE%\Application Data\Gajim\emoticons\`
+
+[ZIP]: https://github.com/jplitza/gajim-emojione/archive/master.zip
+
 License
 -------
 The emoji art itself is licensed by [EmojiOne] under [CC-BY 4.0].
