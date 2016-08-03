@@ -62,7 +62,7 @@ emoticons = {}
 for filename in os.listdir(DIR):
     name, ext = filename.rsplit('.', 1)
 
-    if ext != 'svg' or name.startswith('00'):
+    if ext != 'png' or name.startswith('00'):
         continue
 
     filename = os.path.join(DIR, filename)
