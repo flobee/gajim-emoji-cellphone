@@ -15,7 +15,7 @@ Installation
 Either [download the ZIP][ZIP] or use git to clone the repository to the correct location (see below), go to the preferences of Gajim and select the newly appeared emoticon pack. The correct folders are:
 
 * Linux: `$HOME/.local/share/gajim/emoticons/`
-* Windows: `%USERPROFILE%\Application Data\Gajim\emoticons\`
+* Windows Vista/7/8/10: `%USERPROFILE%\AppData\Roaming\Gajim\Emoticons\`
 
 [ZIP]: https://github.com/jplitza/gajim-emojione/archive/master.zip
 
