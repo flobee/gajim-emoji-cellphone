@@ -13,7 +13,7 @@ for filename in os.listdir('.'):
     emoticons[string] = filename
 
 with open('emoticons.py', 'w') as f:
-    f.write("# coding=utf8\nemoticons = {\n")
+    f.write("# coding=utf8\nfrom collections import OrderedDict\nemoticons = OrderedDict((\n")
     for string, filename in sorted(emoticons.items(), key=lambda x: x[0]):
-        f.write("    '{}': ['{}'],\n".format(filename, string))
-    f.write("}\n")
+        f.write("    ('{}', ['{}']),\n".format(filename, string))
+    f.write("))\n")
