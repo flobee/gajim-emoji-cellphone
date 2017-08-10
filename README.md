@@ -2,7 +2,13 @@ Intro
 =======
 Taken from [1] and reduced to very limited set of icon's to have my most used emojis on my cell phone in sync. This doesn't fit at all but ok for me :) Enjoy!
 
+Testing your own on the fly (test on linux): 
+    1. move selected file from image_src/ to images/ 
+    2. Gajim -> settings:  toggle ones the emoji settings
+    3. Test sending to your cell phone
+
 1: [jplitza/gajim-emojione](https://github.com/jplitza/gajim-emojione)
+
 
 
 Unicode Emojis for Gajim
