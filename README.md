@@ -1,3 +1,8 @@
+Intro
+=======
+Taken from [jplitza/gajim-emojione](https://github.com/jplitza/gajim-emojione) and reduced to very limited set of icon's to have my most used emojis on my cell phone in sync. This doesn't fit at all but ok for me :) Enjoy!
+
+
 Unicode Emojis for Gajim
 ========================
 
