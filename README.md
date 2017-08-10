@@ -25,12 +25,14 @@ I manually added all ASCII codes the original “static“ emoticon pack that co
 
 Installation
 ------------
-Either [download the ZIP][ZIP] or use git to clone the repository to the correct location (see below), go to the preferences of Gajim and select the newly appeared emoticon pack. The correct folders are:
+Either [download the ZIP][ZIP1] or [Original here][ZIP2] or use git to clone the repository to the correct location (see below), go to the preferences of Gajim and select the newly appeared emoticon pack. The correct folders are:
 
 * Linux: `$HOME/.local/share/gajim/emoticons/`
 * Windows Vista/7/8/10: `%USERPROFILE%\AppData\Roaming\Gajim\Emoticons\`
 
-[ZIP]: https://github.com/jplitza/gajim-emojione/archive/master.zip
+[ZIP1]: https://github.com/flobee/gajim-emoji-cellphone/archive/master.zip
+[ZIP2]: https://github.com/jplitza/gajim-emojione/archive/master.zip
+
 
 License
 -------
