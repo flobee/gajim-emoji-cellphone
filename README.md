@@ -9,6 +9,8 @@ Testing your own on the fly (tested on linux):
 
 (1): [jplitza/gajim-emojione](https://github.com/jplitza/gajim-emojione)
 
+Note: The master branch belongs to gajim 016 (debian (9) stretch); Newer versions doesnt work yet!
+
 
 
 Unicode Emojis for Gajim
