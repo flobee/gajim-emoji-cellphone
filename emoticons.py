@@ -56,6 +56,8 @@ def unichar(i):
         return unichr(i)
     except ValueError:
         return struct.pack('i', i).decode('utf-32')
+#    except NameError:
+#        return struct.pack('i', i).decode('utf-32')
 
 
 emoticons = {}
